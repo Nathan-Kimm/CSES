@@ -11,7 +11,7 @@ This repository has my solutions to the CSES problem set problems. I am currentl
 | [Missing Number](https://cses.fi/problemset/task/1083/) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/MissingNumber/solution.py) | | |
 | [Repetitions](https://cses.fi/problemset/task/1069) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/Repetitions/solution.py) | | |
 | [Increasing Array](https://cses.fi/problemset/task/1094) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/IncreasingArray/solution.py)|| |
-
+| [Permutations](https://cses.fi/problemset/task/1070) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/Permutations/solution.py) | | |
 ## Sorting and Searching
 | Problem | Python Solution | Java Solution | C++ Solution
 |-|-|-|-|
