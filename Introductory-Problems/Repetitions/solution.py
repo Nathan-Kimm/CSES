@@ -8,6 +8,5 @@ for i in range(len(list)-1):
         count += 1
     else:
         count = 1
-    if count > greatestCount:
-        greatestCount = count
+    greatestCount = max(greatestCount, count)
 print(greatestCount)
