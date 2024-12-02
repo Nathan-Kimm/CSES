@@ -7,7 +7,8 @@ This repository has my solutions to the CSES problem set problems. I am currentl
 ## Introductory Problems
 | Problem | Python Solution | Java Solution | C++ Solution                                                               
 |-|-|-|-|
-| [Weird Algorithm](https://cses.fi/problemset/task/1068/)     | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/WeirdAlgorithm/solution.py) |    
+| [Weird Algorithm](https://cses.fi/problemset/task/1068/)     |                      [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/WeirdAlgorithm/solution.py) | | | 
+| [Missing Number](https://cses.fi/problemset/task/1083/)| [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/MissingNumber/solution.py) | | |
 
 ## Sorting and Searching
 | Problem | Python Solution | Java Solution | C++ Solution
