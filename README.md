@@ -4,6 +4,11 @@ This repository has my solutions to the CSES problem set problems. I am currentl
 
 # Problems and Solutions
 
+## Introductory Problems
+| Problem                                                     | Python Solution                                                                   | Java Solution                                                                    |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| [Weird Algorithm](https://cses.fi/problemset/task/1068/)     | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/WeirdAlgorithm/solution.py) |    
+
 ## Sorting and Searching
 | Problem                                                     | Python Solution                                                                   | Java Solution                                                                    |
 |-------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
