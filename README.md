@@ -12,6 +12,8 @@ This repository has my solutions to the CSES problem set problems. I am currentl
 | [Repetitions](https://cses.fi/problemset/task/1069) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/3.Repetitions/solution.py) | | |
 | [Increasing Array](https://cses.fi/problemset/task/1094) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/4.IncreasingArray/solution.py)|| |
 | [Permutations](https://cses.fi/problemset/task/1070) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/5.Permutations/solution.py) | | |
+| [Number Spiral](https://cses.fi/problemset/task/1071) | | | |
+| [Two Knights](https://cses.fi/problemset/task/1072) | [Solution](https://github.com/Nathan-Kimm/CSES/blob/master/Introductory-Problems/7.TwoKnights/solution.py) | | |
 ## Sorting and Searching
 | Problem | Python Solution | Java Solution | C++ Solution
 |-|-|-|-|
